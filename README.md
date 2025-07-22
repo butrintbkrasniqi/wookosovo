@@ -1,18 +1,25 @@
-WooKosovo – Shto Kosovën në WooCommerce
+=== WooCommerce Kosovo Support ===
+Contributors: butrintkrasniqi  
+Tags: kosovo, woocommerce, country, kosovo support, shipping  
+Requires at least: 5.0  
+Tested up to: 6.6  
+Stable tag: 1.0.0  
+License: GPLv2 or later  
+License URI: https://www.gnu.org/licenses/gpl-2.0.html  
 
-WooKosovo është një plugin i thjeshtë për WordPress që shton Republikën e Kosovës si shtet të disponueshëm në WooCommerce.
-Me këtë plugin, mund të:
+Adds Kosovo (XK) as a country to WooCommerce with supported regions for billing and shipping.
 
-    Aktivizoni Kosovën si opsion në fushat e faturimit dhe dërgesës
+== Description ==
 
-    Përdorni kodin shtetëror të Kosovës (XK) në porositë dhe raportet
+WooCommerce Kosovo Support plugin enables Kosovo (XK) as a country in WooCommerce.  
+It also includes major regions and cities of Kosovo for use in billing and shipping forms.
 
-    Siguroni një përvojë më të mirë për klientët tuaj në Kosovë
+== Installation ==
 
-Ky plugin është ideal për dyqanet online që operojnë ose dërgojnë në Kosovë.
+1. Upload the plugin to your WordPress site and activate it.  
+2. Kosovo will automatically appear in the countries list of WooCommerce.  
 
-Instalimi:
+== Changelog ==
 
-    Instaloni dhe aktivizoni si çdo plugin tjetër WordPress
-
-    WooKosovo do të funksionojë automatikisht pas aktivizimit
+= 1.0.0 =  
+* Initial release.
