@@ -1,25 +1,35 @@
-=== WooCommerce Kosovo Support ===
-Contributors: butrintkrasniqi  
-Tags: kosovo, woocommerce, country, kosovo support, shipping  
-Requires at least: 5.0  
-Tested up to: 6.6  
-Stable tag: 1.0.0  
-License: GPLv2 or later  
-License URI: https://www.gnu.org/licenses/gpl-2.0.html  
-
-Adds Kosovo (XK) as a country to WooCommerce with supported regions for billing and shipping.
+=== Kosovo Region Addon ===
+Contributors: Butrint Krasniqi
+Tags: kosovo, woocommerce, regions, checkout
+Requires at least: 6.0
+Tested up to: 6.8
+Stable tag: 1.0.0
+License: GPLv2 or later
+License URI: https://www.gnu.org/licenses/gpl-2.0.html
 
 == Description ==
+Adds Kosovo regions and cities to WooCommerce checkout fields. This plugin provides complete Kosovo administrative divisions for WooCommerce stores, ensuring accurate address selection for customers from Kosovo.
 
-WooCommerce Kosovo Support plugin enables Kosovo (XK) as a country in WooCommerce.  
-It also includes major regions and cities of Kosovo for use in billing and shipping forms.
+= Short Description =
+Adds Kosovo regions and cities to WooCommerce checkout.
 
 == Installation ==
+1. Upload the plugin files to the `/wp-content/plugins/kosovo-region-addon` directory
+2. Activate the plugin through the 'Plugins' menu in WordPress
+3. Kosovo regions will automatically appear in WooCommerce checkout fields
 
-1. Upload the plugin to your WordPress site and activate it.  
-2. Kosovo will automatically appear in the countries list of WooCommerce.  
+== Frequently Asked Questions ==
+= Does this plugin work with the latest WooCommerce version? =
+Yes, it's tested and compatible with WooCommerce 7.0+
+
+= How do I add custom regions? =
+You can extend the regions by using the provided filters in the plugin.
+
+== Screenshots ==
+1. Kosovo regions visible in WooCommerce checkout
+2. Admin panel showing enabled regions
 
 == Changelog ==
-
-= 1.0.0 =  
-* Initial release.
+= 1.0.0 =
+* Initial release with all Kosovo regions
+* WooCommerce 7.x compatibility
