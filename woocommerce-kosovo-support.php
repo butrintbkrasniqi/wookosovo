@@ -1,10 +1,14 @@
 <?php
 /**
- * Plugin Name: WooCommerce Kosovo Support
- * Description: Adds Kosovo (XK) as a country to WooCommerce, including cities and ZIP codes.
- * Version: 1.0
+ * Plugin Name: Kosovo Region Addon
+ * Description: Adds Kosovo (XK) as a country in WooCommerce with regions for billing and shipping.
+ * Version: 1.0.0
  * Author: Butrint Krasniqi
- * License: GPL2    
+ * Author URI: https://butrintkrasniqi.com/
+ * License: GPL-2.0+
+ * License URI: https://www.gnu.org/licenses/gpl-2.0.html
+ * Text Domain: kosovo-region-addon
+ * Domain Path: 
  */
 
 // Add Kosovo to the list of countries
